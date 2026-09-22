@@ -1,3 +1,3 @@
 # LargSTL
 
-Paper in IJCAI24
+The code of LargSTL (IJCAI 24)
